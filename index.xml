@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Thu, 20 May 2021 21:35:46 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chunyip135.github.io/inky/index.xml" rel="self" type="application/rss+xml" />
     
@@ -24,10 +24,10 @@
     <item>
       <title>My First Post</title>
       <link>https://chunyip135.github.io/inky/posts/my-first-post/</link>
-      <pubDate>Thu, 20 May 2021 21:35:46 +0800</pubDate>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://chunyip135.github.io/inky/posts/my-first-post/</guid>
-      <description>First post hi asd asd asd asd</description>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
   </channel>
